@@ -10,14 +10,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="106d6bb6-05a5-4485-90e5-a9f40896a660" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/area.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/distance comverter.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/marks.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/salary.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/size.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temp.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/One.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/area.c" beforeDir="false" afterPath="$PROJECT_DIR$/Set 1/area.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/distance comverter.c" beforeDir="false" afterPath="$PROJECT_DIR$/Set 1/distance comverter.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/marks.c" beforeDir="false" afterPath="$PROJECT_DIR$/Set 1/marks.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/salary.c" beforeDir="false" afterPath="$PROJECT_DIR$/Set 1/salary.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/size.c" beforeDir="false" afterPath="$PROJECT_DIR$/Set 1/size.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp.c" beforeDir="false" afterPath="$PROJECT_DIR$/Set 1/temp.c" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,10 +27,11 @@
     <session id="-1848803465">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.8" value="2" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -62,25 +61,25 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/salary.c">
+        <entry file="file://$PROJECT_DIR$/Set 1/salary.c">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/distance comverter.c">
+        <entry file="file://$PROJECT_DIR$/Set 1/distance comverter.c">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="340">
-              <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+              <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/marks.c">
+        <entry file="file://$PROJECT_DIR$/Set 1/marks.c">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
               <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
@@ -89,7 +88,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/temp.c">
+        <entry file="file://$PROJECT_DIR$/Set 1/temp.c">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
               <caret line="15" column="47" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
@@ -98,7 +97,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/area.c">
+        <entry file="file://$PROJECT_DIR$/Set 1/area.c">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="374">
               <caret line="22" column="68" selection-start-line="22" selection-start-column="68" selection-end-line="22" selection-end-column="68" />
@@ -107,7 +106,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/size.c">
+        <entry file="file://$PROJECT_DIR$/Set 1/size.c">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="357">
               <caret line="21" selection-start-line="21" selection-end-line="21" />
@@ -169,6 +168,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="CPPToolchains" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Learning\CLion\Set 1" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -194,17 +198,17 @@
       <workItem from="1532713622817" duration="95000" />
       <workItem from="1532771815414" duration="1690000" />
       <workItem from="1532779302006" duration="3850000" />
+      <workItem from="1532783468640" duration="13000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5635000" />
+    <option name="totallyTimeSpent" value="5648000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18283582" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18496802" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -231,63 +235,45 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/One.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gross salary.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gross salary.c">
+    <entry file="file://$PROJECT_DIR$/One.c" />
+    <entry file="file://$PROJECT_DIR$/gross salary.cpp" />
+    <entry file="file://$PROJECT_DIR$/gross salary.c" />
+    <entry file="file://$PROJECT_DIR$/Set 1/salary.c">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
-          <caret line="19" lean-forward="true" selection-end-line="19" />
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/distance comverter.c">
+    <entry file="file://$PROJECT_DIR$/Set 1/distance comverter.c">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
-          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/salary.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/marks.c">
+    <entry file="file://$PROJECT_DIR$/Set 1/marks.c">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/temp.c">
+    <entry file="file://$PROJECT_DIR$/Set 1/temp.c">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="47" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/area.c">
+    <entry file="file://$PROJECT_DIR$/Set 1/area.c">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" column="68" selection-start-line="22" selection-start-column="68" selection-end-line="22" selection-end-column="68" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/size.c">
+    <entry file="file://$PROJECT_DIR$/Set 1/size.c">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="21" selection-start-line="21" selection-end-line="21" />
